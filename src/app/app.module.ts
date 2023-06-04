@@ -10,7 +10,6 @@ import { IndexComponent } from "./views/index/index.component";
 // components for views and layouts
 
 import { AdminNavbarComponent } from "./components/navbars/admin-navbar/admin-navbar.component";
-import { AuthNavbarComponent } from "./components/navbars/auth-navbar/auth-navbar.component";
 import { CardBarChartComponent } from "./components/cards/card-bar-chart/card-bar-chart.component";
 import { CardLineChartComponent } from "./components/cards/card-line-chart/card-line-chart.component";
 import { CardPageVisitsComponent } from "./components/cards/card-page-visits/card-page-visits.component";
@@ -50,7 +49,6 @@ import { UserDropdownComponent } from "./components/dropdowns/user-dropdown/user
     CardStatsComponent,
     CardTableComponent,
     HeaderStatsComponent,
-    AuthNavbarComponent,
     AdminNavbarComponent,
     IndexNavbarComponent,
     IndexComponent,
